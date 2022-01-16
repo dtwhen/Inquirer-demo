@@ -12,3 +12,4 @@ cd Inquirer-demo
 npm i
 node .
 ```
+![image](https://user-images.githubusercontent.com/97686236/149655974-5c308ae1-7f0f-4c7c-a622-eb27ca56992f.png)
